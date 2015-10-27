@@ -31,3 +31,10 @@ int main(int argc, char ** argv)
 	char c[] = "right";
 	hanoi(n, a, b, c);
 }
+
+/******************************
+ * HOW  TO RUN: 
+ * c++ hanoi.cpp
+ * ./a.out (# of things) EX: ./a.out 9
+ * Done
+******************************/
